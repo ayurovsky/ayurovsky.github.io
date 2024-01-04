@@ -66,6 +66,10 @@ Minor: Mathematics
 - **2021-23** - Lectures on RNA-seq Informatics for BMI511, a graduate Translational Bioinformatics course, Stony Brook University School of Medicine, Dept. of Biomedical Informatics.
 - **2015-16** - Teaching Assistant for undergraduate Algorithms and Software Engineering courses, Stony Brook University, Dept. of Computer Science.
 
+## Publications
+
+[Jump to Publications Page](https://ayurovsky.github.io/publications)
+
 ## Talks and Presentations
 
 ### Refereed Conference Talks (presenter name is in bold)
@@ -83,7 +87,7 @@ Minor: Mathematics
 
 ### Refereed Conference Poster Presentations
 
-- **2023** - **Yurovsky A**, Moffitt RA. (2023) Sample-Specific Compartment Deconvolution. Poster Presentation at 2023 ISMB/ECCB in Lyon, France.
+- **2023** - **Yurovsky A**, Moffitt RA. Sample-Specific Compartment Deconvolution. Poster Presentation at 2023 ISMB/ECCB in Lyon, France.
 
 - **2017** - **Yurovsky A**, Amin MR, Skiena S. Word Embeddings for Genome Annotation with Deep Learning. Poster presentation at the 13th International Conference on Emerging Technologies for a Smarter World (CEWIT2017), November 2017.
 
@@ -112,14 +116,14 @@ Member of ISCB.
 
 ### MS Research
 
-- **2023--** - Eliezer Aravera
+- **2023--** Eliezer Aravera
 
 ### Undergraduate Research
 
-- **2021-22** - Michael D. Sweeney: resulted in coauthored paper with student as the first author. Next position: graduate student research assistant at the University of Michigan.
+- **2021-22** Michael D. Sweeney: resulted in coauthored paper with student as the first author. Next position: graduate student research assistant at the University of Michigan.
 
 ### High School Research
 
-- **2021-22** - Ashley Hsu: joint work resulted in a winning entry for the bioinformatics category at the 2022 International Science and Engineering Fair, while representing New York. Next position: undergraduate student at Duke University.
+- **2021-22** Ashley Hsu: joint work resulted in a winning entry for the bioinformatics category at the 2022 International Science and Engineering Fair, while representing New York. Next position: undergraduate student at Duke University.
 
 

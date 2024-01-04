@@ -27,8 +27,8 @@ You can also find my articles on my [Google Scholar Profile](https://scholar.goo
 - [2013] - Kilpinen H, Waszak SM, Gschwind AR, Raghav SK, Witwicki RM, Orioli A, Migliavacca E, Wiederkehr M, Gutierrez-Arcelus M, Panousis NI, **Yurovsky A**, Lappalainen T, Romano-Palumbo L, Planchon A, Bielser D, Bryois J, Padioleau I, Udin G, Thurnheer S, Hacker D, Core LJ, Lis JT, Hernandez N, Reymond A, Deplancke B, Dermitzakis ET. (2013) Coordinated effects of sequence variation on DNA binding, chromatin structure, and transcription. Science. 2013;342(6159):744-7. doi: 10.1126/science.1242463. PubMed PMID: 24136355.
 - [2013] - Gutierrez-Arcelus M, Lappalainen T, Montgomery SB, Buil A, Ongen H, **Yurovsky A**, Bryois J, Giger T, Romano L, Planchon A, Falconnet E, Bielser D, Gagnebin M, Padioleau I, Borel C, Letourneau A, Makrythanasis P, Guipponi M, Gehrig C, Antonarakis SE, Dermitzakis ET. (2013) Passive and active DNA methylation and the interplay with genetic variation in gene regulation. Elife. 2013 Jun 4:2:e00523. doi: 10.7554/eLife.00523. PubMed PMID: 23755361.
 - [2011] - **Yurovsky A**, Moret BME. (2011) FluReF, an automated flu virus reassortment finder based on phylogenetic trees. BMC Genomics. 2011;12 Suppl 2(Suppl 2):S3. doi: 10.1186/1471-2164-12-S2-S3. PubMed PMID: 21989112.
-- [2010] — **Yurovsky A**, Moret BME. FluRF, an automated flu virus reassortment finder based on phylogenetic trees. 2010 IEEE International Conference on Bioinformatics & Biomedicine (BIBM-2010)
-- [2005] — **Yurovsky A**, Gopalakrishnan P. A new Cell-Planning based automatic placement technique for optimization of Analog, RF, and mixed-signal circuit layouts. Cadence Technical Conference, May 2005.
+- [2010] - **Yurovsky A**, Moret BME. FluRF, an automated flu virus reassortment finder based on phylogenetic trees. 2010 IEEE International Conference on Bioinformatics & Biomedicine (BIBM-2010)
+- [2005] - **Yurovsky A**, Gopalakrishnan P. A new Cell-Planning based automatic placement technique for optimization of Analog, RF, and mixed-signal circuit layouts. Cadence Technical Conference, May 2005.
 
 
 ### US Patents
