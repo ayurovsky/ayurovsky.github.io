@@ -13,3 +13,4 @@ As an [IDEA Fellow](https://news.stonybrook.edu/university/idea-fellows-join-sto
 
 I am a computational biologist who works at the intersection of computer science, genetics, and statistics. I am interested in the development of new algorithms and computational methods that aid in the advances of precision medicine, with the potential to address existing racial disparities in health data. My current research projects include precise compartment deconvolution and weight estimation of mixed tissue samples, analysis of spatial transcriptomics data, methods for small size differential expression studies, and applied machine learning.
 
+If you are a student at Stony Brook and want to work with me, please [send me email](https://ayurovsky.github.io/contact) to arrange an appointment.
