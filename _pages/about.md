@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-As an [IDEA Fellow](href='https://news.stonybrook.edu/university/idea-fellows-join-stony-brook-faculty' target='_blank'), I am a new faculty member at the <a style='color: black;' href='https://bmi.stonybrookmedicine.edu/' target='_blank'>Department of Biomedical Informatics</a>, <a style='color: black;' href='https://www.stonybrook.edu/' target='_blank'>Stony Brook University</a>".
+As an [IDEA Fellow](https://news.stonybrook.edu/university/idea-fellows-join-stony-brook-faculty), I am a new faculty member at the [Department of Biomedical Informatics](href='https://bmi.stonybrookmedicine.edu/), [Stony Brook University](https://www.stonybrook.edu/). 
 
 I was a postdoctoral researcher in the [BMI Department](https://bmi.stonybrookmedicine.edu/) at the [Stony Brook University School of Medicine](https://www.stonybrookmedicine.edu/) and a recipient of the [NSF/CRA Computing Innovation Fellowship](https://cifellows2020.org/2020-class/) for research on precise compartment deconvolution and weight estimation of mixed tissue samples. I am currently advised by [Richard Moffitt](https://med.emory.edu/departments/hematology-medical-oncology/profile/?u=RAMOFFI).
 
