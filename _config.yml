@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Alisa Yurovsky"
 title_separator          : "-"
 name                     : &name "Alisa Yurovsky"
-description              : &description "IDEA Fellow, Lecturer at Stony Brook University School of Medicine"
+description              : &description "IDEA Fellow, Lecturer at Stony Brook University Department of Biomedical Informatics"
 url                      : https://ayurovsky.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ayurovsky/ayurovsky.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Alisa Yurovsky"
   avatar           : "profile.png"
-  bio              : "<a style='color: black;' href='https://news.stonybrook.edu/university/idea-fellows-join-stony-brook-faculty'>IDEA Fellow</a>, Lecturer at <a style='color: black;' href='https://bmi.stonybrookmedicine.edu/' target='_blank'>BMI</a>, href='https://www.stonybrook.edu/' target='_blank'>Stony Brook University</a>"
+  bio              : "<a style='color: black;' href='https://news.stonybrook.edu/university/idea-fellows-join-stony-brook-faculty' target='_blank'>IDEA Fellow</a>, Lecturer at <a style='color: black;' href='https://bmi.stonybrookmedicine.edu/' target='_blank'>BMI</a>, <a style='color: black;' href='https://www.stonybrook.edu/' target='_blank'>Stony Brook University</a>"
   location         : "Stony Brook, NY"
   employer         :
   pubmed           :
