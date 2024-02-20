@@ -60,8 +60,8 @@ Minor: Mathematics
 
 ## Teaching
 
+- **2023-24** - Faculty co-advisor for the Stony Brook VIP Webgen team, a long-term multi-disciplinary project for undergraduate and graduate students. Stony Brook's Vertically Integrated Projects Program is a member of the VIP Consortium.
 - **2022-23** - Developing and teaching BMI540, a graduate course in Statistical Methods in Biomedical Informatics, Stony Brook University School of Medicine, Dept. of Biomedical Informatics.
-- **2023-23** - Faculty co-advisor for the Stony Brook VIP Webgen team, a long-term multi-disciplinary project for undergraduate and graduate students. Stony Brook's Vertically Integrated Projects Program is a member of the VIP Consortium.
 - **2023-23** - Developing and teaching BMI530, a graduate course in Software Development in Biomedical Informatics, Stony Brook University School of Medicine, Dept. of Biomedical Informatics.
 - **2021-23** - Lectures on RNA-seq Informatics for BMI511, a graduate Translational Bioinformatics course, Stony Brook University School of Medicine, Dept. of Biomedical Informatics.
 - **2015-16** - Teaching Assistant for undergraduate Algorithms and Software Engineering courses, Stony Brook University, Dept. of Computer Science.
@@ -94,6 +94,8 @@ Minor: Mathematics
 - **2010** - **Yurovsky A**, Moret BME. FluRF. Poster presentation at the 1st European Student Council Symposium workshop at the 9th European Conference on Computational Biology (ECCB-10), September 2010.
 
 ### Campus Talks and Panel Discussions
+
+- **2024** - Panelist for CELT AI Ethics in Teaching and Learning Panel, Stony Brook, NY, invited by Rose Tirotta-Esposito, February 20, 2024.
 
 - **2023** - Panelist for CSTEP Biomedical Engineering Panel, Stony Brook, NY, invited by Daniene Byrne, October 4, 2023.
 
