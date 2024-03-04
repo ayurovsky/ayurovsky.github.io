@@ -104,8 +104,8 @@ Minor: Mathematics
 
 ## Professional Service
 
+- **2019-24** - **Reviewer** for BMC Genomics 2024, Computational and Structural Biotechnology 2022 and Scientific Reports 2022 Journals, Bioinformatics 2019.
 - **2023-23** - **Program Committee Member** for ACM-BCB 2023.
-- **2019-22** - **Reviewer** for for Bioinformatics 2019, Computational and Structural Biotechnology 2022, and Scientific Reports Journals 2022.
 - **2022-22** - **Session Chair** for ACM-BCB 2022.
 - **2018-20** - Stony Brook University Computer Science, **WPhD Vice President**.
 - **2019-19** - Stony Brook University Computer Science, **WPhD Acting President**.
