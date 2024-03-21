@@ -95,6 +95,8 @@ Minor: Mathematics
 
 ### Campus Talks and Panel Discussions
 
+- **2024** - Panelist for CSTEP Engineering Panel, Stony Brook, NY, invited by Daniene Byrne, March 20,  2024.
+
 - **2024** - Panelist for CELT AI Ethics in Teaching and Learning Panel, Stony Brook, NY, invited by Rose Tirotta-Esposito, February 20, 2024.
 
 - **2023** - Panelist for CSTEP Biomedical Engineering Panel, Stony Brook, NY, invited by Daniene Byrne, October 4, 2023.
