@@ -93,7 +93,9 @@ Minor: Mathematics
 
 - **2010** - **Yurovsky A**, Moret BME. FluRF. Poster presentation at the 1st European Student Council Symposium workshop at the 9th European Conference on Computational Biology (ECCB-10), September 2010.
 
-### Campus Talks and Panel Discussions
+### Inivted Talks and Panel Discussions
+
+- **2024** - Invited speaker, "Improving Differential Expression and Survival analyses", 2024 Stony Brook Cancer Center GI Symposium, Port Jefferson, NY, invited by Georgios Georgakis, May 31, 2024.
 
 - **2024** - Panelist for CSTEP Engineering Panel, Stony Brook, NY, invited by Daniene Byrne, March 20,  2024.
 
@@ -101,7 +103,7 @@ Minor: Mathematics
 
 - **2023** - Panelist for CSTEP Biomedical Engineering Panel, Stony Brook, NY, invited by Daniene Byrne, October 4, 2023.
 
-- **2022** - "Compartment Deconvolution for Precision Medicine", Pathology Cancer Center Grand Rounds Seminar, Stony Brook University School of Medicine, Stony Brook, NY, invited by Kenneth R. Shroyer, December 13, 2022.
+- **2022** - Invited speaker, "Compartment Deconvolution for Precision Medicine", Pathology Cancer Center Grand Rounds Seminar, Stony Brook University School of Medicine, Stony Brook, NY, invited by Kenneth R. Shroyer, December 13, 2022.
 
 
 ## Professional Service
