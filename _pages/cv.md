@@ -106,12 +106,17 @@ Minor: Mathematics
 
 ## Professional Service
 
+### Conferences and Journals
+
+- **2023-24** - **Program Committee Member** for ACM-BCB 2024, 2023.
 - **2019-24** - **Reviewer** for BMC Genomics 2024, Computational and Structural Biotechnology 2022 and Scientific Reports 2022 Journals, Bioinformatics 2019.
-- **2023-23** - **Program Committee Member** for ACM-BCB 2023.
 - **2022-22** - **Session Chair** for ACM-BCB 2022.
+
+### University Service
+- **2024-24** Stony Brook University College of Engineering and Applied Sciences, DEI climate survey committee member.
 - **2018-20** - Stony Brook University Computer Science, **WPhD Vice President**.
 - **2019-19** - Stony Brook University Computer Science, **WPhD Acting President**.
-
+  
 ## Professional Memberships
 
 ISCB member since 2023. ACM and ACM-W member since 2024.
