@@ -114,7 +114,7 @@ Minor: Mathematics
 
 ## Professional Memberships
 
-Member of ISCB.
+ISCB member since 2023. ACM and ACM-W member since 2024.
 
 ## Mentees
 
