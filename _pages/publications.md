@@ -8,9 +8,11 @@ author_profile: true
 You can also find my articles on my [Google Scholar Profile](https://scholar.google.com/citations?user=9517icQAAAAJ&hl=en).
 
 {% include base_path %}
+## Pre-prints and Manuscripts Under Review
+- [2023] Sejour R, Leatherwood J, **Yurovsky A**, Futcher B. (2022) No Ramp Needed: Spandrels, Statistics, and a Slippery Slope. bioRxiv. 2023 Aug 19. doi: 10.1101/2022.06.27.497802.
 
 ## Peer-Reviewed Journal Articles and Conference Proceedings
-- [2023] Sejour R, Leatherwood J, **Yurovsky A**, Futcher B. (2023) No Ramp Needed: Spandrels, Statistics, and a Slippery Slope. eLife. 2023 Nov 13; 12:RP89656. doi: 10.7554/eLife.89656.2.
+- [2024] Sejour R, Leatherwood J, **Yurovsky A**, Futcher B. (2024) Enrichment of rare codons at 5' ends of genes is a spandrel caused by evolutionary sequence turnover and does not improve translation. eLife. 2024 Jul 15. 12:RP89656. doi: 10.7554/eLife.89656.3
 - [2023] Hegelmeyer NK, Parkin LA, Previti ML, Andrade J, Utama R, Sejour RJ, Gardin J, Muller S, Ketchum S, **Yurovsky A**, Futcher B, Goodwin S, Ueberheide B, Seeliger JC. Gene recoding by synonymous mutations creates promiscuous intragenic transcription initiation in mycobacteria. mBio. 2023 Oct 31;14(5):e0084123. doi: 10.1128/mbio.00841-23. PubMed PMID: 37787543.
 - [2023] Sweeney MD, Torre-Healy LA, Ma VL, Hall MA, Chrastecka L, **Yurovsky A**, Moffitt RA. (2023) FaStaNMF: a Fast and Stable Non-negative Matrix Factorization for Gene Expression. IEEE/ACM Trans Comput Biol Bioinform. Epub ahead of print. 2023/07/19; doi: 10.1109/TCBB.2023.3296979. PubMed PMID: 37467096.
 - [2022] **Yurovsky A**, Gardin J, Futcher B, Skiena S. (2022) Statistical Methodology for Ribosomal Frameshift Detection. Proceedings of the 2022 ACM International Conference on Bioinformatics, Computational Biology and Health Informatics (ACM-BCB). 12:1-10. doi: 10.1145/3535508.3545529.
