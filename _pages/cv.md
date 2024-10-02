@@ -137,6 +137,10 @@ ISCB member since 2023. ACM and ACM-W member since 2024.
 
 ### High School Research
 
+- **2024-** Shriya Jaddu: Simons Summer Research student
+
+- **2024-** Thomas Li: Simons Summer Research student
+
 - **2021-22** Ashley Hsu: joint work resulted in a winning entry for the bioinformatics category at the 2022 International Science and Engineering Fair, while representing New York. Next position: undergraduate student at Duke University.
 
 
