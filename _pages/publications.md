@@ -9,7 +9,7 @@ You can also find my articles on my [Google Scholar Profile](https://scholar.goo
 
 {% include base_path %}
 ## Pre-prints and Manuscripts Under Review
-- [2023] Sejour R, Leatherwood J, **Yurovsky A**, Futcher B. (2022) No Ramp Needed: Spandrels, Statistics, and a Slippery Slope. bioRxiv. 2023 Aug 19. doi: 10.1101/2022.06.27.497802.
+- [2023] Sejour R, Leatherwood J, **Yurovsky A**, Futcher B. (2023) No Ramp Needed: Spandrels, Statistics, and a Slippery Slope. bioRxiv. 2023 Aug 19. doi: 10.1101/2022.06.27.497802.
 
 ## Peer-Reviewed Journal Articles and Conference Proceedings
 - [2024] Sejour R, Leatherwood J, **Yurovsky A**, Futcher B. (2024) Enrichment of rare codons at 5' ends of genes is a spandrel caused by evolutionary sequence turnover and does not improve translation. eLife. 2024 Jul 15. 12:RP89656. doi: 10.7554/eLife.89656.3
