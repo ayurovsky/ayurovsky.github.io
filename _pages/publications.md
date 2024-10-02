@@ -9,6 +9,8 @@ You can also find my articles on my [Google Scholar Profile](https://scholar.goo
 
 {% include base_path %}
 ## Pre-prints and Manuscripts Under Review
+
+- [2024] Sha C, Van Brunt T, Kudria J, Schmidt D, **Yurovsky A**, Bandovic J, Giarrizzo M, Lin J, Tsirka SA, Bialkowska AB, Wollmuth L, Speer E, Hsieh H. (2024) A graded neonatal mouse model of necrotizing enterocolitis demonstrates that mild enterocolitis is sufficient to activate microglia and increase cerebral cytokine expression. bioRxiv. 2024 May 1. doi: 10.1101/2023.08.03.551849.
 - [2023] Sejour R, Leatherwood J, **Yurovsky A**, Futcher B. (2023) No Ramp Needed: Spandrels, Statistics, and a Slippery Slope. bioRxiv. 2023 Aug 19. doi: 10.1101/2022.06.27.497802.
 
 ## Peer-Reviewed Journal Articles and Conference Proceedings
