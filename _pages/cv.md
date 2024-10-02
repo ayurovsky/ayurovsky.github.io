@@ -87,6 +87,8 @@ Minor: Mathematics
 
 ### Refereed Conference Poster Presentations
 
+- **2024** - **Yurovsky A**, Moffitt RA. Improving Differential Expression and Survival Analyses with Sample-Specific Compartment Deconvolution (SSCD). Poster Presentation at 2024 ISMB in Montreal, France.
+
 - **2023** - **Yurovsky A**, Moffitt RA. Sample-Specific Compartment Deconvolution. Poster Presentation at 2023 ISMB/ECCB in Lyon, France.
 
 - **2017** - **Yurovsky A**, Amin MR, Skiena S. Word Embeddings for Genome Annotation with Deep Learning. Poster presentation at the 13th International Conference on Emerging Technologies for a Smarter World (CEWIT2017), November 2017.
