@@ -128,11 +128,11 @@ ISCB member since 2023. ACM and ACM-W member since 2024.
 
 ## Mentees
 
-### MS Research
-
-- **2023--** Eliezer Aravera
-
 ### Undergraduate Research
+
+- **2024-** Aaron Das
+
+- **2024-** Ilirjana Gocaj
 
 - **2021-22** Michael D. Sweeney: resulted in coauthored paper with student as the first author. Next position: graduate student research assistant at the University of Michigan.
 
