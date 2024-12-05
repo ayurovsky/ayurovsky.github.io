@@ -115,7 +115,7 @@ Minor: Mathematics
 
 - **2023-24** - **Program Committee Member** for ACM-BCB 2024, 2023.
 - **2019-24** - **Reviewer** for BMC Genomics 2024, Computational and Structural Biotechnology 2022 and Scientific Reports 2022 Journals, Bioinformatics 2019.
-- **2022-22** - **Session Chair** for ACM-BCB 2022.
+- **2022-24** - **Session Chair** for ACM-BCB 2024, 2022.
 
 ### University Service
 - **2024-24** - Stony Brook University College of Engineering and Applied Sciences, DEI climate survey committee member.
