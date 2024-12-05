@@ -75,6 +75,8 @@ Minor: Mathematics
 
 ### Refereed Conference Talks (presenter name is in bold)
 
+- **2024** - Hasan M, Kim Silva A, Abousamra S, Tang S, Prasanna P, Saltz J, Gardner KL, Chen C, **Yurovsky A**. (2024) New Spatial Phenotypes from Imaging Uncover Survival Differences for Breast Cancer Patients. Presented at ACM-BCB 2024.
+
 - **2022** - Sweeney MD, Torre-Healy LA, Ma VL, Hall MA, Chrastecka L, **Yurovsky A** and Moffitt RA. FaStaNMF: a Fast and Stable Non-negative Matrix Factorization for Gene Expression, presented at APBC 2022.
 
 - **2022** - **Yurovsky A**, Gardin J, Futcher B, Skiena S. Statistical Methodology for Ribosomal Frameshift Detection, presented at ACM-BCB 2022.
