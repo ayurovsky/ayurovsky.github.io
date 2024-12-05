@@ -94,7 +94,9 @@ Minor: Mathematics
 
 ### Refereed Conference Poster Presentations
 
-- **2024** - **Yurovsky A**, Moffitt RA. Improving Differential Expression and Survival Analyses with Sample-Specific Compartment Deconvolution (SSCD). Poster Presentation at 2024 ISMB in Montreal, France.
+- **2024** - **Dutta P**, Sathian R, Obusan M, Surana P, Chao M, Papineni N, Yurovsky A, Davuluri RV. Prediction of Cancer Somatic Mutations that impact Gene Regulatory Elements by application of DNABERT fine-tuned models on Whole Genome Sequencing Data. Poster presentation at 2024 CSHL Biological Data Science Meeting in Cold Spring Harbor, NY.
+
+- **2024** - **Yurovsky A**, Moffitt RA. Improving Differential Expression and Survival Analyses with Sample-Specific Compartment Deconvolution (SSCD). Poster Presentation at 2024 ISMB in Montreal, Canada.
 
 - **2023** - **Yurovsky A**, Moffitt RA. Sample-Specific Compartment Deconvolution. Poster Presentation at 2023 ISMB/ECCB in Lyon, France.
 
