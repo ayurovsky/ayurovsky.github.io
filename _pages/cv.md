@@ -16,7 +16,8 @@ Also available as [PDF](https://ayurovsky.github.io/files/AlisaYurovsky_CV.pdf)
 
 - Algorithms in Computational Biology, statistical analysis of biological data.
 - Analysis of single cell and bulk RNA-seq, spatial transcriptomics, genome composition.
-- Precision Medicine, mixture modeling/deconvolution.
+- Algorithms for enabling more precise survival, differential expression, and classification analyses for
+genomics and imaging data.
 
 ## Education
 
