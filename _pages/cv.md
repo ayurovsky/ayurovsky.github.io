@@ -60,13 +60,13 @@ Minor: Mathematics
 
 
 ## Teaching
-- **2022-** - 3 semesters, developing and teaching BMI540, a graduate course in Statistical Methods in Biomedical Informatics, Stony Brook University School of Medicine, Dept. of Biomedical Informatics.
-- **2023-** - 3 semesters, faculty co-advisor for the Stony Brook VIP Webgen team, a long-term multi-disciplinary project for undergraduate students. Stony Brook's Vertically Integrated Projects Program is a member of the VIP Consortium.
-- **2024-** - Excellence in Teaching Program participant, nominated for the 2024-2025 cohort by the CEAS dean, offered through Stony Brook University Office of the Provost.
-- **2021-** - Once per year lecture on RNA-seq Informatics for BMI511, a graduate Translational Bioinformatics course, Stony Brook University School of Medicine, Dept. of Biomedical Informatics.
-- **2024-** - Once per semester lecture on Bioinformatics at the BMI Bootcamp for Stony Brook undergraduate students.
-- **2023-23** - Developing and teaching BMI530, a graduate course in Software Development in Biomedical Informatics, Stony Brook University School of Medicine, Dept. of Biomedical Informatics.
-- **2015-16** - Teaching Assistant for undergraduate Algorithms and Software Engineering courses, Stony Brook University, Dept. of Computer Science.
+- **2022-** 3 semesters, developing and teaching BMI540, a graduate course in Statistical Methods in Biomedical Informatics, Stony Brook University School of Medicine, Dept. of Biomedical Informatics.
+- **2023-** 3 semesters, faculty co-advisor for the Stony Brook VIP Webgen team, a long-term multi-disciplinary project for undergraduate students. Stony Brook's Vertically Integrated Projects Program is a member of the VIP Consortium.
+- **2024-** Excellence in Teaching Program participant, nominated for the 2024-2025 cohort by the CEAS dean, offered through Stony Brook University Office of the Provost.
+- **2021-** Once per year lecture on RNA-seq Informatics for BMI511, a graduate Translational Bioinformatics course, Stony Brook University School of Medicine, Dept. of Biomedical Informatics.
+- **2024-** Once per semester lecture on Bioinformatics at the BMI Bootcamp for Stony Brook undergraduate students.
+- **2023-23** Developing and teaching BMI530, a graduate course in Software Development in Biomedical Informatics, Stony Brook University School of Medicine, Dept. of Biomedical Informatics.
+- **2015-16** Teaching Assistant for undergraduate Algorithms and Software Engineering courses, Stony Brook University, Dept. of Computer Science.
 
 ## Publications
 
