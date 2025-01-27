@@ -10,6 +10,8 @@ You can also find my articles on my [Google Scholar Profile](https://scholar.goo
 {% include base_path %}
 ## Pre-prints and Manuscripts Under Review
 
+- [2025] **Yurovsky A**, Moffitt RA. Improving Differential Expression and Survival Analyses with Sample Specific Compartment Deconvolution. Under review for ISMB 2025.
+
 - [2024] Ganguly A, Chatterjee D, Huang W, Zhang J, **Yurovsky A**, Johnson TS, Chen C. MERGE: Multi-faceted Hierarchical Graph-based GNN for Gene Expression Prediction from Whole Slide Histopathology Images. arXiv. 2024, Dec 3. doi: 10.48550/arXiv.2412.02601. Under review for CVPR 2025.
 
 - [2024] Huang W, Xu M, Hu X, Abousamra S, Ganguly A, Kapse S, **Yurovsky A**, Prasanna P, Kurc T, Saltz J, Miller ML, Chen C. (2024) RankByGene: Gene-Guided Histopathology Representation Learning Through Cross-Modal Ranking Consistency. arXiv. 2024, Nov 22. doi: 10.48550/arXiv.2411.15076. Under review for CVPR 2025.
