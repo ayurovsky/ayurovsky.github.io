@@ -11,10 +11,10 @@ You can also find my articles on my [Google Scholar Profile](https://scholar.goo
 ## Pre-prints and Manuscripts Under Review
 
 - [2025] Dutta P, Obusan M, Sathian R, Surana P, Chao M, Papineni N, **Yurovsky A**, Davuluri RV. DeepVRegulome: DNABERT-based deep learning framework for predicting functionally disruptive and clinically relevant non-coding regulatory variants. Under review in Genome Biology.
-
-- [2025] **Yurovsky A**, Moffitt RA. Improving Differential Expression and Survival Analyses with Sample Specific Compartment Deconvolution. bioRxiv. 2025, June 7. doi: 10.1101/2025.06.04.657908.
   
 - [2025] Jaddu S, Li T, Ma T, **Yurovsky, A**. Racial Disparities in Machine-learning Based Acute Kidney Injury Prediction from eGFR Time Series: Characterization and Augmentation Strategies. Under review in Scientific Reports.
+
+- [2025] **Yurovsky A**, Moffitt RA. Improving Differential Expression and Survival Analyses with Sample Specific Compartment Deconvolution. bioRxiv. 2025, June 7. doi: 10.1101/2025.06.04.657908.
 
 - [2024] Huang W, Xu M, Hu X, Abousamra S, Ganguly A, Kapse S, **Yurovsky A**, Prasanna P, Kurc T, Saltz J, Miller ML, Chen C. (2024) RankByGene: Gene-Guided Histopathology Representation Learning Through Cross-Modal Ranking Consistency. arXiv. 2024, Nov 22. doi: 10.48550/arXiv.2411.15076.
 
