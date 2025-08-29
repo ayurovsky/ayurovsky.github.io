@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Curriculum Vitae - March 2023"
+title: "Curriculum Vitae - August 2025"
 permalink: /cv/
 author_profile: true
 redirect_from:
