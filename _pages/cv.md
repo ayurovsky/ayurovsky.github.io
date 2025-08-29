@@ -131,9 +131,10 @@ Minor: Mathematics
 - **2022-24** - **Session Chair** for ACM-BCB 2024, 2022.
 
 ### University Service
+- **2025-** - Stony Brook University BMI Department Graduate Program committee member.
 - **2024-24** - Stony Brook University College of Engineering and Applied Sciences, DEI climate survey committee member.
-- **2018-20** - Stony Brook University Computer Science, **WPhD Vice President**.
-- **2019-19** - Stony Brook University Computer Science, **WPhD Acting President**.
+- **2018-20** - Stony Brook University Computer Science Department, **WPhD Vice President**.
+- **2019-19** - Stony Brook University Computer Science Department, **WPhD Acting President**.
   
 ## Professional Memberships
 
