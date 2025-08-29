@@ -1,3 +1,4 @@
+<style>article.page .page__content p{ text-align:justify !important; }</style>
 ---
 permalink: /
 title: "About me"
