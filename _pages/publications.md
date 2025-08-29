@@ -14,10 +14,9 @@ You can also find my articles on my [Google Scholar Profile](https://scholar.goo
 
 - [2024] Ganguly A, Chatterjee D, Huang W, Zhang J, **Yurovsky A**, Johnson TS, Chen C. MERGE: Multi-faceted Hierarchical Graph-based GNN for Gene Expression Prediction from Whole Slide Histopathology Images. arXiv. 2024, Dec 3. doi: 10.48550/arXiv.2412.02601. Under review for CVPR 2025.
 
-- [2024] Huang W, Xu M, Hu X, Abousamra S, Ganguly A, Kapse S, **Yurovsky A**, Prasanna P, Kurc T, Saltz J, Miller ML, Chen C. (2024) RankByGene: Gene-Guided Histopathology Representation Learning Through Cross-Modal Ranking Consistency. arXiv. 2024, Nov 22. doi: 10.48550/arXiv.2411.15076. Under review for CVPR 2025.
+- [2024] Huang W, Xu M, Hu X, Abousamra S, Ganguly A, Kapse S, **Yurovsky A**, Prasanna P, Kurc T, Saltz J, Miller ML, Chen C. (2024) RankByGene: Gene-Guided Histopathology Representation Learning Through Cross-Modal Ranking Consistency. arXiv. 2024, Nov 22. doi: 10.48550/arXiv.2411.15076.
 
 - [2024] Sha C, Van Brunt T, Kudria J, Schmidt D, **Yurovsky A**, Bandovic J, Giarrizzo M, Lin J, Tsirka SA, Bialkowska AB, Wollmuth L, Speer E, Hsieh H. (2024) A graded neonatal mouse model of necrotizing enterocolitis demonstrates that mild enterocolitis is sufficient to activate microglia and increase cerebral cytokine expression. bioRxiv. 2024 May 1. doi: 10.1101/2023.08.03.551849.
-- [2023] Sejour R, Leatherwood J, **Yurovsky A**, Futcher B. (2023) No Ramp Needed: Spandrels, Statistics, and a Slippery Slope. bioRxiv. 2023 Aug 19. doi: 10.1101/2022.06.27.497802.
 
 ## Peer-Reviewed Journal Articles and Conference Proceedings
 - [2024] Hasan M, Kim Silva A, Abousamra S, Tang S, Prasanna P, Saltz J, Gardner KL, Chen C, **Yurovsky A**. (2024) New Spatial Phenotypes from Imaging Uncover Survival Differences for Breast Cancer Patients. Proceedings of the 2024 ACM International Conference on Bioinformatics, Computational Biology and Health Informatics (ACM-BCB). 17:1-12. doi: 10.1145/3698587.370133.
