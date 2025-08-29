@@ -34,6 +34,19 @@ Dissertation: _A Study of Flu Virus Reassortment_
 ### B.S. Computer Science, **Carnegie Mellon University**, May 2001
 Minor: Mathematics
 
+## Employment
+- **2025--**  **Assistant Professor, tenure track**, Stony Brook University, Dept. of Biomedical Informatics, Stony Brook, NY.
+- **2023-25**  **IDEA Fellow, Lecturer**, Stony Brook University, Dept. of Biomedical Informatics, Stony Brook, NY.
+- **2021-23** Postdoctoral Fellow, Stony Brook University School of Medicine, Dept. of Biomedical Informatics, Stony Brook, NY.
+- **2016-20** Research Assistant, Stony Brook University, Dept. of Computer Science, Stony Brook, NY.
+- **2015-16** Teaching Assistant, Stony Brook University, Dept. of Computer Science, Stony Brook, NY.
+- **2013-15** Data Manager/Statistician, Stony Brook University, Dept. of Microbiology and Immunology, Stony Brook, NY.
+- **2011–12** Bioinformatician, University of Geneva Medical School, Functional Population Genomics and Genetics of Complex Traits Lab, Geneva, Switzerland.
+- **2004–08** Senior Member of Technical Staff, Cadence Design System, Inc., Pittsburgh, PA.
+- **2001–04** Software Engineer, Neolinear, Inc., Pittsburgh, PA.
+- **2000–01** Research Programmer, Medical Robotics and Assisted Surgery, Inc., Pittsburgh, PA.
+- **1998–99** Summer Research Programmer, Carnegie Mellon University, Language Technologies Institute, Pittsburgh, PA.
+
 ## Fellowships, Grants, Awards
 
 - **2023** **IDEA Fellowship**: Full-time, 12-month, non tenure-track faculty position at the lecturer level. Two year support with anticipated transition to tenure-track.
@@ -44,19 +57,6 @@ Minor: Mathematics
 - **2015** Pieper Merit Award for first year PhD students.
 - **2010** Prix Annaheim - Mattille for high quality Master’s Thesis devoted to bringing together life sciences and information technology.
 - **2007** Organizational Level Award awarded by Cadence Design Systems, Inc. for work on semiconductor process constraints.
-
-## Employment
-
-- **2023--**  **IDEA Fellow, Lecturer**, Stony Brook University, Dept. of Biomedical Informatics, Stony Brook, NY.
-- **2021-23** Postdoctoral Fellow, Stony Brook University School of Medicine, Dept. of Biomedical Informatics, Stony Brook, NY.
-- **2016-20** Research Assistant, Stony Brook University, Dept. of Computer Science, Stony Brook, NY.
-- **2015-16** Teaching Assistant, Stony Brook University, Dept. of Computer Science, Stony Brook, NY.
-- **2013-15** Data Manager/Statistician, Stony Brook University, Dept. of Microbiology and Immunology, Stony Brook, NY.
-- **2011–12** Bioinformatician, University of Geneva Medical School, Functional Population Genomics and Genetics of Complex Traits Lab, Geneva, Switzerland.
-- **2004–08** Senior Member of Technical Staff, Cadence Design System, Inc., Pittsburgh, PA.
-- **2001–04** Software Engineer, Neolinear, Inc., Pittsburgh, PA.
-- **2000–01** Research Programmer, Medical Robotics and Assisted Surgery, Inc., Pittsburgh, PA.
-- **1998–99** Summer Research Programmer, Carnegie Mellon University, Language Technologies Institute, Pittsburgh, PA.
 
 
 ## Teaching
