@@ -76,6 +76,8 @@ Minor: Mathematics
 
 ### Refereed Conference Talks (presenter name is in bold)
 
+- **2025** -  **Ganguly A**, Chatterjee D, Huang W, Zhang J, Yurovsky A, Johnson TS, Chen C. MERGE: Multi-faceted Hierarchical Graph-based GNN for Gene Expression Prediction from Whole Slide Histopathology Images. Presented at CVPR 2025: June 11-15, Nashville, TN.
+
 - **2025** - **Pratik Dutta**, Matthew Obusan, Rekha Sathian, Pallavi Surana, Max Chao, Nimisha Papineni, Alisa Yurovsky, Ramana V. Davuluri. Leveraging Genomic Foundation Models to Predict Short Nucleotide Variants That Impact Non-Coding Functional Sites in Cancer Genomes. Presented at GLBIO 2025: May 12-15, Minneapolis, MN. 
 
 - **2025** - **Aggarwal P**, Sochan AJ, Kim R, Kuhia R, Zhao Z, Fiore SM, Chesler D, Egnor M, Yurovsky A, Hsieh H. Pediatric Traumatic Brain Injury: Uncovering Injury Patterns and Their Clinical Consequences. Presented at ACS 2025: Feb 11-13, Las Vegas, Nevada.
