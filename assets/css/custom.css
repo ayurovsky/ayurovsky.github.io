@@ -1,4 +1,7 @@
-article.page.text-justify .page__content p {
+body.text-justify.layout--single .page__content p,
+body.text-justify.layout--single .page__content li,
+body.text-justify.layout--single .page__content .archive__item-excerpt,
+body.text-justify.layout--single .page__content .feature__item p {
   text-align: justify !important;
   hyphens: auto;
 }
