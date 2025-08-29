@@ -111,6 +111,8 @@ Minor: Mathematics
 
 ### Inivted Talks and Panel Discussions
 
+- **2025** - Panelist for CSTEP Engineering Panel, Stony Brook, NY, invited by Peter Saenz, April 30, 2025.
+
 - **2024** - Invited speaker, "Improving Differential Expression and Survival analyses", 2024 Stony Brook Cancer Center GI Symposium, Port Jefferson, NY, invited by Georgios Georgakis, May 31, 2024.
 
 - **2024** - Panelist for CSTEP Engineering Panel, Stony Brook, NY, invited by Daniene Byrne, March 20,  2024.
