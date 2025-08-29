@@ -76,9 +76,11 @@ Minor: Mathematics
 
 ### Refereed Conference Talks (presenter name is in bold)
 
-- **2025** - **Aggarwal P**, Sochan AJ, Kim R, Kuhia R, Zhao Z, Fiore SM, Chesler D, Egnor M, Yurovsky A, Hsieh H. Pediatric Traumatic Brain Injury: Uncovering Injury Patterns and Their Clinical Consequences. Talk accepted for ACS 2025: Feb 11-13, Las Vegas, Nevada.
+- **2025** - **Pratik Dutta**, Matthew Obusan, Rekha Sathian, Pallavi Surana, Max Chao, Nimisha Papineni, Alisa Yurovsky, Ramana V. Davuluri. Leveraging Genomic Foundation Models to Predict Short Nucleotide Variants That Impact Non-Coding Functional Sites in Cancer Genomes. Presented at GLBIO 2025: May 12-15, Minneapolis, MN. 
 
-- **2025** - **Aggarwal P**, Kim R, Kuhia R, Zhao Z, Fiore SM, Chesler D, Egnor M, Yurovsky A, Hsieh H. Breaking Up a Bimodal Distribution: Guidelines for Pediatric Traumatic Brain Injury Research. Talk accepted for ACS 2025: Feb 11-13, Las Vegas, Nevada.
+- **2025** - **Aggarwal P**, Sochan AJ, Kim R, Kuhia R, Zhao Z, Fiore SM, Chesler D, Egnor M, Yurovsky A, Hsieh H. Pediatric Traumatic Brain Injury: Uncovering Injury Patterns and Their Clinical Consequences. Presented at ACS 2025: Feb 11-13, Las Vegas, Nevada.
+
+- **2025** - **Aggarwal P**, Kim R, Kuhia R, Zhao Z, Fiore SM, Chesler D, Egnor M, Yurovsky A, Hsieh H. Breaking Up a Bimodal Distribution: Guidelines for Pediatric Traumatic Brain Injury Research. Presented at ACS 2025: Feb 11-13, Las Vegas, Nevada.
 
 - **2024** - Hasan M, Kim Silva A, Abousamra S, Tang S, Prasanna P, Saltz J, Gardner KL, Chen C, **Yurovsky A**. New Spatial Phenotypes from Imaging Uncover Survival Differences for Breast Cancer Patients. Presented at ACM-BCB 2024.
 
