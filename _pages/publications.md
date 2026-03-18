@@ -19,6 +19,7 @@ You can also find my articles on my [Google Scholar Profile](https://scholar.goo
 - [2024] Huang W, Xu M, Hu X, Abousamra S, Ganguly A, Kapse S, **Yurovsky A**, Prasanna P, Kurc T, Saltz J, Miller ML, Chen C. (2024) RankByGene: Gene-Guided Histopathology Representation Learning Through Cross-Modal Ranking Consistency. arXiv. 2024, Nov 22. doi: 10.48550/arXiv.2411.15076.
 
 ## Peer-Reviewed Journal Articles and Conference Proceedings
+- [2026] Majumder S, Kapse S, Bhattacharya M, Xu X, **Yurovsky A**, Prasanna P. Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2026, pp. 8052-8062
 - [2026] Das A, Gocaj I, **Yurovsky A**. (2026) Systematic Review of Methods for Measuring Circulating Cell-Free DNA in Plasma of Healthy Individuals. Diagnostics. March 10, 2026.  16(6), 821. doi: 10.3390/diagnostics16060821
 - [2025] Sha C, Van Brunt T, Kudria J, Schmidt D, **Yurovsky A**, Bandovic J, Giarrizzo M, Lin J, Tsirka SA, Bialkowska AB, Wollmuth L, Speer E, Hsieh H. (2024) A graded neonatal mouse model of necrotizing enterocolitis demonstrates that mild enterocolitis is sufficient to activate microglia and increase cerebral cytokine expression. PLoS One. May 30, 2025. doi: 10.1371/journal.pone.0323626
 - [2025] Ganguly A, Chatterjee D, Huang W, Zhang J, **Yurovsky A**, Johnson TS, Chen C. MERGE: Multi-faceted Hierarchical Graph-based GNN for Gene Expression Prediction from Whole Slide Histopathology Images. Proceedings of the Computer Vision and Pattern Recognition Conference (CVPR) 2025. pp. 15611-15620.
