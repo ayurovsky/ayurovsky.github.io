@@ -128,8 +128,9 @@ Minor: Mathematics
 
 ### Conferences and Journals
 
-- **2023-25** - **Program Committee Member** for ACM-BCB 2023-2025.
-- **2019-24** - **Reviewer** for BMC Genomics 2024, Computational and Structural Biotechnology 2022 and Scientific Reports 2022 Journals, Bioinformatics 2019.
+- **2026-26** - **Area Chair** for ACM-BCB 2026.
+- **2023-26** - **Conference Reviewer** for  AMIA 2026 Annual Symposium, AMIA 2026 Amplify Informatics Conference, ACM-BCB 2023-2025.
+- **2019-25** - **Journal Reviewer** for npj Breast Cancer 2025, BMC Genomics 2024, Computational and Structural Biotechnology 2022 and Scientific Reports 2022 Journals, Bioinformatics 2019.
 - **2022-24** - **Session Chair** for ACM-BCB 2024, 2022.
 
 ### University Service
