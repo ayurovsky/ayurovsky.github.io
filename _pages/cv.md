@@ -131,11 +131,13 @@ Minor: Mathematics
 - **2026-26** - **Area Chair** for ACM-BCB 2026.
 - **2023-26** - **Conference Reviewer** for  AMIA 2026 Annual Symposium, AMIA 2026 Amplify Informatics Conference, ACM-BCB 2023-2025.
 - **2019-25** - **Journal Reviewer** for npj Breast Cancer 2025, BMC Genomics 2024, Computational and Structural Biotechnology 2022 and Scientific Reports 2022 Journals, Bioinformatics 2019.
-- **2022-24** - **Session Chair** for ACM-BCB 2024, 2022.
+- **2022-25** - **Session Chair** for ACM-BCB 2024-2025, 2022.
 
 ### University Service
-- **2025-** - Stony Brook University BMI Department Graduate Program committee member.
 - **2024-24** - Stony Brook University College of Engineering and Applied Sciences, DEI climate survey committee member.
+
+### Department Service
+- **2025-** - Stony Brook University BMI Department Graduate Program committee member.
 - **2018-20** - Stony Brook University Computer Science Department, **WPhD Vice President**.
 - **2019-19** - Stony Brook University Computer Science Department, **WPhD Acting President**.
   
