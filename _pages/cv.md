@@ -162,11 +162,11 @@ ISCB member since 2023. ACM and ACM-W member since 2024.
 
 ### Undergraduate Research
 
-- **2024-** Aaron Das
+- **2024-26** Aaron Das: joint work resulted in a journal publication, with the student as a co-first author.
 
-- **2024-** Ilirjana Gocaj
+- **2024-26** Ilirjana Gocaj: joint work resulted in a journal publication, with the student as a co-first author.
 
-- **2021-22** Michael D. Sweeney: resulted in coauthored paper with student as the first author. Next position: graduate student research assistant at the University of Michigan.
+- **2021-22** Michael D. Sweeney: joint work resulted in coauthored paper with student as the first author. Next position: graduate student research assistant at the University of Michigan.
 
 ### High School Research
 
