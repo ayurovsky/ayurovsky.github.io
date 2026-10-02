@@ -112,7 +112,7 @@ Minor: Mathematics
 
 - **2010** - **Yurovsky A**, Moret BME. FluRF. Poster presentation at the 1st European Student Council Symposium workshop at the 9th European Conference on Computational Biology (ECCB-10), September 2010.
 
-### Inivted Talks and Panel Discussions
+### Invited Talks and Panel Discussions
 
 - **2025** - Panelist for CSTEP Engineering Panel, Stony Brook, NY, invited by Peter Saenz, April 30, 2025.
 
