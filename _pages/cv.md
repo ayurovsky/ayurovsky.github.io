@@ -100,7 +100,13 @@ Minor: Mathematics
 - **2010** - **Yurovsky A**, Moret BME. FluRF, an automated flu virus reassortment finder based on phylogenetic trees, presented at BIBM-2010.
 
 
-### Refereed Conference Poster Presentations
+### Refereed Conference Poster Presentations (presenter name is in bold)
+
+- **2026** -  **Pande KP**, Yang E, Zhu B, Mallipattu SK, Yurovsky A, Ma T. Dialysis Risk Prediction and Treatment Effect Estimation for AKI patients using Longitudinal Electronic Health Records. Poster accepted for presentation at AMIA 2026 Annual Symposium in Dallas, TX.
+
+- **2026** - **Majumder S**, Kapse S, Bhattacharya M, Xu X, Yurovsky A, Prasanna P. PEaRL: Pathway-Enhanced Representation Learning for Gene and Pathway Expression Prediction
+from Histology. Poster presentation at IEEE/CVF Winter Conference on Applications of
+Computer Vision (WACV) March 2026 in Tucson, Arizona.
 
 - **2024** - **Dutta P**, Sathian R, Obusan M, Surana P, Chao M, Papineni N, Yurovsky A, Davuluri RV. Prediction of Cancer Somatic Mutations that impact Gene Regulatory Elements by application of DNABERT fine-tuned models on Whole Genome Sequencing Data. Poster presentation at 2024 CSHL Biological Data Science Meeting in Cold Spring Harbor, NY.
 
