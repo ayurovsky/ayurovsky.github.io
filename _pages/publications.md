@@ -20,6 +20,7 @@ You can also find my articles on my [Google Scholar Profile](https://scholar.goo
 - [2024] Huang W, Xu M, Hu X, Abousamra S, Ganguly A, Kapse S, **Yurovsky A**, Prasanna P, Kurc T, Saltz J, Miller ML, Chen C. (2024) RankByGene: Gene-Guided Histopathology Representation Learning Through Cross-Modal Ranking Consistency. arXiv. 2024, Nov 22. doi: 10.48550/arXiv.2411.15076.
 
 ## Peer-Reviewed Journal Articles and Conference Proceedings
+- [2026] Chinthalapudi S, Mallipattu SK, **Yurovsky A**, Ma, T. A Novel Approach to Zero-Shot Drug-Drug Interaction Prediction Enabled by EHR-Augmented Knowledge Graphs. Proceedings or AMIA Summits on Translational Science, 2026.
 - [2026] Majumder S, Kapse S, Bhattacharya M, Xu X, **Yurovsky A**, Prasanna P. PEaRL: Pathway-Enhanced Representation Learning for Gene and Pathway Expression Prediction from Histology. Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2026, pp. 8052-8062
 - [2026] Das A, Gocaj I, **Yurovsky A**. (2026) Systematic Review of Methods for Measuring Circulating Cell-Free DNA in Plasma of Healthy Individuals. Diagnostics. March 10, 2026.  16(6), 821. doi: 10.3390/diagnostics16060821
 - [2026] Nelson B, Delgado-Coka L, Marchenko N, Escobar-Hoyos LF, Shroyer KR, **Yurovsky A**, Ideker T, Balázsi G, MacCarthy T and Powers S. (2026), Network divergence analysis identifies adaptive gene modules and two orthogonal vulnerability axes in pancreatic cancer. Mol Oncol. https://doi.org/10.1002/1878-0261.70218
