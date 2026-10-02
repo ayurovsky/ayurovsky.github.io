@@ -160,13 +160,17 @@ ISCB member since 2023. ACM and ACM-W member since 2024.
 
 ### High School Research
 
-- **2025-** Ryan Kim: Simons Summer Research student
+- **2026-** Srihith Chennareddy: Simons Summer Research student: joint work resulted in a publication, currently under review.
 
-- **2025-** Bryan Zhu: Simons Summer Research student
+- **2026-** Ronit Sharma: Simons Summer Research student: joint work resulted in a publication, currently under review.
+
+- **2025-** Ryan Kim: Simons Summer Research student: joint work resulted in manuscript, currently in preparation. Next postition: undergraduate student at University of Illinois Urbana-Champaign.
+
+- **2025-26** Bryan Zhu: Simons Summer Research student: joint work resulted in a poster presentation at AMIA 2026 Annual Symposium. Next position: undergraduate student at MIT.
+
+- **2024-26** Shriya Jaddu: Simons Summer Research student: joint work resulted in a publication, currently under review. Next position: undergraduate student at Yale University.
 
 - **2024-25** Thomas Li: Simons Summer Research student: joint work resulted in a publication, currently under review. Next position: undergraduate student at MIT.
-
-- **2024-25** Shriya Jaddu: Simons Summer Research student: joint work resulted in a publication, currently under review. Next position: undergraduate student at Yale University.
 
 - **2021-22** Ashley Hsu: joint work resulted in a winning entry for the bioinformatics category at the 2022 International Science and Engineering Fair, while representing New York. Next position: undergraduate student at Duke University.
 
