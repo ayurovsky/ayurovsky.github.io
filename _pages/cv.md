@@ -36,7 +36,7 @@ Minor: Mathematics
 
 ## Employment
 - **2025--**  **Assistant Professor, tenure track**, Stony Brook University, Dept. of Biomedical Informatics, Stony Brook, NY.
-- **2025--**  **Assistant Professor, Affiliate**, Stony Brook University, Dept. of Computer Science, Stony Brook, NY.
+- **2025--**  **Assistant Professor, affiliate**, Stony Brook University, Dept. of Computer Science, Stony Brook, NY.
 - **2023-25**  **IDEA Fellow, Lecturer**, Stony Brook University, Dept. of Biomedical Informatics, Stony Brook, NY.
 - **2021-23** Postdoctoral Fellow, Stony Brook University School of Medicine, Dept. of Biomedical Informatics, Stony Brook, NY.
 - **2016-20** Research Assistant, Stony Brook University, Dept. of Computer Science, Stony Brook, NY.
@@ -63,7 +63,7 @@ Minor: Mathematics
 
 
 ## Teaching
-- **2022-** 4 semesters, developing and teaching BMI540, a graduate course in Statistical Methods in Biomedical Informatics, Stony Brook University School of Medicine, Dept. of Biomedical Informatics.
+- **2022-** 5 semesters, developing and teaching BMI540, a graduate course in Statistical Methods in Biomedical Informatics, Stony Brook University School of Medicine, Dept. of Biomedical Informatics.
 - **2023-** 5 semesters, faculty co-advisor for the Stony Brook VIP Webgen team, a long-term multi-disciplinary project for undergraduate students. Stony Brook's Vertically Integrated Projects Program is a member of the VIP Consortium.
 - **2024-** Once per semester lecture on Bioinformatics at the BMI Bootcamp for Stony Brook undergraduate students.
 - **2024-25** Excellence in Teaching Program participant, nominated for the 2024-2025 cohort by the CEAS dean, offered through Stony Brook University Office of the Provost.
