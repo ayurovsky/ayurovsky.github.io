@@ -102,7 +102,9 @@ Minor: Mathematics
 
 ### Refereed Conference Poster Presentations (presenter name is in bold) 
 
-- **2026** -  **Pande KP**, Yang E, Zhu B, Mallipattu SK, Yurovsky A, Ma T. Dialysis Risk Prediction and Treatment Effect Estimation for AKI patients using Longitudinal Electronic Health Records. Poster accepted for presentation at AMIA 2026 Annual Symposium in Dallas, TX.
+- **2026** - **Chinthalapudi S**, Mallipattu SK, Yurovsky A, Ma, T. A Novel Approach to Zero-Shot Drug-Drug Interaction Prediction Enabled by EHR-Augmented Knowledge Graphs. Presented at Amplify Informatics Conference, May 17–21, 2026, Denver, CO.
+
+- **2026** - **Pande KP**, Yang E, Zhu B, Mallipattu SK, Yurovsky A, Ma T. Dialysis Risk Prediction and Treatment Effect Estimation for AKI patients using Longitudinal Electronic Health Records. Poster accepted for presentation at AMIA 2026 Annual Symposium in Dallas, TX.
 
 - **2026** - **Majumder S**, Kapse S, Bhattacharya M, Xu X, Yurovsky A, Prasanna P. PEaRL: Pathway-Enhanced Representation Learning for Gene and Pathway Expression Prediction
 from Histology. Poster presentation at IEEE/CVF Winter Conference on Applications of
