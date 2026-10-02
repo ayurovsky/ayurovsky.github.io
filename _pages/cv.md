@@ -49,8 +49,8 @@ Minor: Mathematics
 - **1998–99** Summer Research Programmer, Carnegie Mellon University, Language Technologies Institute, Pittsburgh, PA.
 
 ## Fellowships, Grants, Awards
-**2026** **Stony Brook OR&I Seed Grant** Integrating EHRs and Knowledge Graphs to Identify Drug-Drug Interactions Affecting Post-AKI Kidney Outcomes, **Co-I**, $40,000, 10/12/2026-04/12/2028
---**2026** **NIH NCI** Investigating Targetable Mechanisms of Altered Cell States in Castration-Resistant Prostrate Cancer, **Co-I**, $3,019,550, 07/01/2026-06/30/2031
+- **2026** **Stony Brook OR&I Seed Grant** Integrating EHRs and Knowledge Graphs to Identify Drug-Drug Interactions Affecting Post-AKI Kidney Outcomes, **Co-I**, $40,000, 10/12/2026-04/12/2028
+- **2026** **NIH NCI** Investigating Targetable Mechanisms of Altered Cell States in Castration-Resistant Prostrate Cancer, **Co-I**, $3,019,550, 07/01/2026-06/30/2031
 - **2025** **Startup Funding**: early career support from Stony Brook University, **PI**, $450,000, 09/01/2025-08/31/2028
 - **2023** **IDEA Fellowship**: Full-time, 12-month, non tenure-track faculty position at the lecturer level. Two year support with anticipated transition to tenure-track.
 - **2020** **NSF/CRA/CCC Computing Innovation Postdoctoral Fellow 2020 (CIFellows 2020)**: Full financial support for two years of postdoctoral research, with 9 months extension.
