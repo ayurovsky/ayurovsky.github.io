@@ -17,9 +17,8 @@ You can also find my articles on my [Google Scholar Profile](https://scholar.goo
 
 - [2025] **Yurovsky A**, Moffitt RA. Improving Differential Expression and Survival Analyses with Sample Specific Compartment Deconvolution. bioRxiv. 2025, June 7. doi: 10.1101/2025.06.04.657908.
 
-- [2024] Huang W, Xu M, Hu X, Abousamra S, Ganguly A, Kapse S, **Yurovsky A**, Prasanna P, Kurc T, Saltz J, Miller ML, Chen C. (2024) RankByGene: Gene-Guided Histopathology Representation Learning Through Cross-Modal Ranking Consistency. arXiv. 2024, Nov 22. doi: 10.48550/arXiv.2411.15076.
-
 ## Peer-Reviewed Journal Articles and Conference Proceedings
+- [2026] Huang W, Xu M, Hu X, Abousamra S, Ganguly A, Kapse S, **Yurovsky A**, Prasanna P, Kurc T, Saltz J, Miller ML, Chen C. RankByGene: Gene-Guided Histopathology Representation Learning Through Cross-Modal Ranking Consistency. IEEE Transactions on Medical Imaging. August 21, 2026. doi: 10.1109/TMI.2026.3725898
 - [2026] Chinthalapudi S, Mallipattu SK, **Yurovsky A**, Ma, T. A Novel Approach to Zero-Shot Drug-Drug Interaction Prediction Enabled by EHR-Augmented Knowledge Graphs. Proceedings or AMIA Summits on Translational Science, 2026. PMID: 42317832 PMCID: PMC13274378
 - [2026] Majumder S, Kapse S, Bhattacharya M, Xu X, **Yurovsky A**, Prasanna P. PEaRL: Pathway-Enhanced Representation Learning for Gene and Pathway Expression Prediction from Histology. Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2026, pp. 8052-8062. doi: 10.1109/WACV61042.2026.00777
 - [2026] Das A, Gocaj I, **Yurovsky A**. (2026) Systematic Review of Methods for Measuring Circulating Cell-Free DNA in Plasma of Healthy Individuals. Diagnostics. March 10, 2026.  16(6), 821. doi: 10.3390/diagnostics16060821
