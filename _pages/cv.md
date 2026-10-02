@@ -79,6 +79,8 @@ Minor: Mathematics
 
 ### Refereed Conference Talks (presenter name is in bold)
 
+- **2026** - **Chinthalapudi S**, Mallipattu SK, Yurovsky A, Ma, T. A Novel Approach to Zero-Shot Drug-Drug Interaction Prediction Enabled by EHR-Augmented Knowledge Graphs. Presented at Amplify Informatics Conference, May 17–21, 2026, Denver, CO.
+
 - **2025** -  **Ganguly A**, Chatterjee D, Huang W, Zhang J, Yurovsky A, Johnson TS, Chen C. MERGE: Multi-faceted Hierarchical Graph-based GNN for Gene Expression Prediction from Whole Slide Histopathology Images. Presented at CVPR 2025: June 11-15, Nashville, TN.
 
 - **2025** - **Pratik Dutta**, Matthew Obusan, Rekha Sathian, Pallavi Surana, Max Chao, Nimisha Papineni, Alisa Yurovsky, Ramana V. Davuluri. Leveraging Genomic Foundation Models to Predict Short Nucleotide Variants That Impact Non-Coding Functional Sites in Cancer Genomes. Presented at GLBIO 2025: May 12-15, Minneapolis, MN. 
@@ -102,13 +104,9 @@ Minor: Mathematics
 
 ### Refereed Conference Poster Presentations (presenter name is in bold) 
 
-- **2026** - **Chinthalapudi S**, Mallipattu SK, Yurovsky A, Ma, T. A Novel Approach to Zero-Shot Drug-Drug Interaction Prediction Enabled by EHR-Augmented Knowledge Graphs. Presented at Amplify Informatics Conference, May 17–21, 2026, Denver, CO.
-
 - **2026** - **Pande KP**, Yang E, Zhu B, Mallipattu SK, Yurovsky A, Ma T. Dialysis Risk Prediction and Treatment Effect Estimation for AKI patients using Longitudinal Electronic Health Records. Poster accepted for presentation at AMIA 2026 Annual Symposium in Dallas, TX.
 
-- **2026** - **Majumder S**, Kapse S, Bhattacharya M, Xu X, Yurovsky A, Prasanna P. PEaRL: Pathway-Enhanced Representation Learning for Gene and Pathway Expression Prediction
-from Histology. Poster presentation at IEEE/CVF Winter Conference on Applications of
-Computer Vision (WACV) March 2026 in Tucson, Arizona.
+- **2026** - **Majumder S**, Kapse S, Bhattacharya M, Xu X, Yurovsky A, Prasanna P. PEaRL: Pathway-Enhanced Representation Learning for Gene and Pathway Expression Prediction from Histology. Poster presentation at IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) March 2026 in Tucson, Arizona.
 
 - **2024** - **Dutta P**, Sathian R, Obusan M, Surana P, Chao M, Papineni N, Yurovsky A, Davuluri RV. Prediction of Cancer Somatic Mutations that impact Gene Regulatory Elements by application of DNABERT fine-tuned models on Whole Genome Sequencing Data. Poster presentation at 2024 CSHL Biological Data Science Meeting in Cold Spring Harbor, NY.
 
