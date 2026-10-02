@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Curriculum Vitae - August 2025"
+title: "Curriculum Vitae - October 2026"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -36,6 +36,7 @@ Minor: Mathematics
 
 ## Employment
 - **2025--**  **Assistant Professor, tenure track**, Stony Brook University, Dept. of Biomedical Informatics, Stony Brook, NY.
+- **2025--**  **Assistant Professor, Affiliate**, Stony Brook University, Dept. of Computer Science, Stony Brook, NY.
 - **2023-25**  **IDEA Fellow, Lecturer**, Stony Brook University, Dept. of Biomedical Informatics, Stony Brook, NY.
 - **2021-23** Postdoctoral Fellow, Stony Brook University School of Medicine, Dept. of Biomedical Informatics, Stony Brook, NY.
 - **2016-20** Research Assistant, Stony Brook University, Dept. of Computer Science, Stony Brook, NY.
@@ -49,6 +50,7 @@ Minor: Mathematics
 
 ## Fellowships, Grants, Awards
 
+- **2025** **Startup Funding**: early career support from Stony Brook University, **PI**, $450,000, 09/01/2025-08/31/2028
 - **2023** **IDEA Fellowship**: Full-time, 12-month, non tenure-track faculty position at the lecturer level. Two year support with anticipated transition to tenure-track.
 - **2020** **NSF/CRA/CCC Computing Innovation Postdoctoral Fellow 2020 (CIFellows 2020)**: Full financial support for two years of postdoctoral research, with 9 months extension.
 - **2017** CEWIT 2017 Best Poster Award: one of three Best Poster Awards based on technical merit, potential impact, clarity, poster aesthetics, and quality of presentation.
