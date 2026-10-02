@@ -11,7 +11,7 @@ You can also find my articles on my [Google Scholar Profile](https://scholar.goo
 ## Pre-prints and Manuscripts Under Review
 - [2026] Pande KP, Yang E, Zhu B, Mallipattu SK, **Yurovsky A**, Ma T. Dialysis Risk Prediction and Treatment Effect Estimation for AKI patients using Longitudinal Electronic Health Records. arXiv. 2026, April 28. doi:10.48550/arXiv.2604.24547
   
-- [2025] Dutta P, Obusan M, Sathian R, Surana P, Chao M, Papineni N, **Yurovsky A**, Davuluri RV. DeepVRegulome: DNABERT-based deep learning framework for predicting functionally disruptive and clinically relevant non-coding regulatory variants. Under review in Genome Biology.
+- [2026] Dutta P, Obusan M, Sathian R, Surana P, Chao M, Papineni N, **Yurovsky A**, Davuluri RV. DeepVRegulome: DNABERT-based deep learning framework for predicting functionally disruptive and clinically relevant non-coding regulatory variants. Under review in Bioinformatics Advances.
   
 - [2025] Jaddu S, Li T, Ma T, **Yurovsky, A**. Racial Disparities in Machine-learning Based Acute Kidney Injury Prediction from eGFR Time Series: Characterization and Augmentation Strategies. Under review in Scientific Reports.
 
