@@ -9,11 +9,19 @@ You can also find my articles on my [Google Scholar Profile](https://scholar.goo
 
 {% include base_path %}
 ## Pre-prints and Manuscripts Under Review
+- [2026] Mehta K, Majumder S, Chennareddy S, **Yurovsky A**, Prasanna P. An Interpretable Spatial Taxonomy of Breast Immune and Tumor Cell Organization in Large-Scale Spatial Transcriptomics Datasets. Under review at the conference on Digital and Computational Pathology, part of SPIE Medical Imaging.
+
+- [2026] Chennareddy S, Majumder S, Mehta K, Prasanna P, **Yurovsky A**. Connecting Histologic Tumor–Immune Architecture and Spatial Transcriptomic Pathway Activity in Colorectal Cancer. Under review at a workshop for BIBM 2026.
+
+- [2026] Jaddu S, Li T, Ma T, **Yurovsky A**. Racial Disparities in Machine-learning Based Acute Kidney Injury Prediction from eGFR Time Series: Characterization and Augmentation Strategies. Under review at a workshop for BIBM 2026.
+
+- [2026] Sharma R, Gupta R, Kurc T, **Yurovsky A.** Stage IV Breast Cancer Classification From Bulk RNA-seq Using Transcriptomic Foundation Models. Under review at a workshop for BIBM 2026.
+
+- [2026] Pande K, Liu Y, Yang E, Mallipattu S, **Yurovsky A**, Ma T. Hyperbolic Multimodal EHR Representation for Dialysis Prediction and Dose-Aware Treatment Effect Estimation. Under review at a workshop for BIBM 2026.
+
 - [2026] Pande KP, Yang E, Zhu B, Mallipattu SK, **Yurovsky A**, Ma T. Dialysis Risk Prediction and Treatment Effect Estimation for AKI patients using Longitudinal Electronic Health Records. arXiv. 2026, April 28. doi:10.48550/arXiv.2604.24547
   
 - [2026] Dutta P, Obusan M, Sathian R, Surana P, Chao M, Papineni N, **Yurovsky A**, Davuluri RV. DeepVRegulome: DNABERT-based deep learning framework for predicting functionally disruptive and clinically relevant non-coding regulatory variants. Under review in Bioinformatics Advances.
-  
-- [2025] Jaddu S, Li T, Ma T, **Yurovsky, A**. Racial Disparities in Machine-learning Based Acute Kidney Injury Prediction from eGFR Time Series: Characterization and Augmentation Strategies. Under review in Scientific Reports.
 
 - [2025] **Yurovsky A**, Moffitt RA. Improving Differential Expression and Survival Analyses with Sample Specific Compartment Deconvolution. bioRxiv. 2025, June 7. doi: 10.1101/2025.06.04.657908.
 
