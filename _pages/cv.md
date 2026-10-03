@@ -120,6 +120,9 @@ Minor: Mathematics
 
 ### Invited Talks and Panel Discussions
 
+- **2026** - Invited speaker, "Pathway-Enhanced Representation Learning for Gene and Pathway Expression Prediction from Histology",
+ Western North American Region of the International Biometric Society (WNAR) 2026, Pullman, WA, invited by Debolina Chatterjee, June 16, 2026.
+
 - **2025** - Panelist for CSTEP Engineering Panel, Stony Brook, NY, invited by Peter Saenz, April 30, 2025.
 
 - **2024** - Invited speaker, "Improving Differential Expression and Survival analyses", 2024 Stony Brook Cancer Center GI Symposium, Port Jefferson, NY, invited by Georgios Georgakis, May 31, 2024.
