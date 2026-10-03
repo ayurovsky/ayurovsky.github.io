@@ -23,6 +23,8 @@ You can also find my articles on my [Google Scholar Profile](https://scholar.goo
   
 - [2026] Dutta P, Obusan M, Sathian R, Surana P, Chao M, Papineni N, **Yurovsky A**, Davuluri RV. DeepVRegulome: DNABERT-based deep learning framework for predicting functionally disruptive and clinically relevant non-coding regulatory variants. Under review in Bioinformatics Advances.
 
+- [2026] Young AM, **Yurovsky A**, Peng XL, Yehc JJ, Li D, Rashid NU. Survival-guided matrix factorization identifies reproducible prognostic programs in pancreatic cancer. Under review in PNAS.
+
 - [2025] **Yurovsky A**, Moffitt RA. Improving Differential Expression and Survival Analyses with Sample Specific Compartment Deconvolution. bioRxiv. 2025, June 7. doi: 10.1101/2025.06.04.657908.
 
 ## Peer-Reviewed Journal Articles and Conference Proceedings
