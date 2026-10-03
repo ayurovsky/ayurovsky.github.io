@@ -152,6 +152,14 @@ Minor: Mathematics
 - **2025-** - Stony Brook University BMI Department Graduate Program committee member.
 - **2018-20** - Stony Brook University Computer Science Department, **WPhD Vice President**.
 - **2019-19** - Stony Brook University Computer Science Department, **WPhD Acting President**.
+
+### PhD committees
+
+Chelsea Kirkland (TBD), Nimisha Papineni (A Multimodal Transformer Framework for Cross-Species Interpretation of Non-Coding Regulatory Variants), Pallavi Surana (Unraveling tissue specific gene regulation in normal and cancer tissues using AI), Max Chao (AI driven Discovery of Functional Impact of Mutations in Regulatory Regions across Translational Species Modalities to Understand the Environmental Impacts of Arsenic and Ultraviolet Radiation in Mouse Skin Tumors: Adapting DeepVRegulome across Species Modalities), Rekha Sathian (Decoding Enhancer Regulatory Language in Human and Mouse Genomes Using Genome Language Model) 
+
+### MS committees
+
+Jack Vaska (Predicting Antimicrobial Resistance Using Microbiome-Pretrained DNABERT2 and DBGWAS-Derived Genomic Features)
   
 ## Professional Memberships
 
@@ -168,6 +176,8 @@ ISCB member since 2023. ACM and ACM-W member since 2024.
 - **2026-** Sejuti Majumder
 
 ### Undergraduate Research
+
+- **2025-26** Samuel George Thomas: Senior Honors Research Project: Visualizing Health Insurance Coverage in the US.
 
 - **2024-26** Aaron Das: joint work resulted in a journal publication, with the student as a co-first author.
 
