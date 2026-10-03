@@ -159,6 +159,10 @@ ISCB member since 2023. ACM and ACM-W member since 2024.
 
 ## Mentees
 
+### Faculty Development and Peer Mentoring
+
+- **2026-** Miruna Oprescu, SUNY PRODiG+ Fellow, Stony Brook University, Dept. of Computer Science
+
 ### Current PhD Students
 
 - **2026-** Sejuti Majumder
