@@ -155,7 +155,7 @@ Minor: Mathematics
 
 ### PhD committees
 
-Chelsea Kirkland (TBD), Nimisha Papineni (A Multimodal Transformer Framework for Cross-Species Interpretation of Non-Coding Regulatory Variants), Pallavi Surana (Unraveling tissue specific gene regulation in normal and cancer tissues using AI), Max Chao (AI driven Discovery of Functional Impact of Mutations in Regulatory Regions across Translational Species Modalities to Understand the Environmental Impacts of Arsenic and Ultraviolet Radiation in Mouse Skin Tumors: Adapting DeepVRegulome across Species Modalities), Rekha Sathian (Decoding Enhancer Regulatory Language in Human and Mouse Genomes Using Genome Language Model) 
+Chelsea Kirkland (TBD), Nimisha Papineni (A Multimodal Transformer Framework for Cross-Species Interpretation of Non-Coding Regulatory Variants), Max Chao (AI driven Discovery of Functional Impact of Mutations in Regulatory Regions across Translational Species Modalities to Understand the Environmental Impacts of Arsenic and Ultraviolet Radiation in Mouse Skin Tumors: Adapting DeepVRegulome across Species Modalities), Rekha Sathian (Decoding Enhancer Regulatory Language in Human and Mouse Genomes Using Genome Language Model), Pallavi Surana (Unraveling tissue specific gene regulation in normal and cancer tissues using AI) 
 
 ### MS committees
 
