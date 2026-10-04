@@ -139,10 +139,10 @@ Minor: Mathematics
 ## Professional Service
 
 ### Conferences and Journals
-
+- **2026-26** - **Workshops Chair** Co-chair of workshops for 2026 IEEE BIBM.
 - **2026-26** - **Area Chair** for ACM-BCB 2026.
 - **2023-26** - **Conference Reviewer** for  AMIA 2026 Annual Symposium, AMIA 2026 Amplify Informatics Conference, ACM-BCB 2023-2025.
-- **2019-25** - **Journal Reviewer** for npj Breast Cancer 2025, BMC Genomics 2024, Computational and Structural Biotechnology 2022 and Scientific Reports 2022 Journals, Bioinformatics 2019.
+- **2019-25** - **Journal Reviewer** for , Bioinformatics 2019-2026, npj Breast Cancer 2025, BMC Genomics 2024, Computational and Structural Biotechnology 2022 and Scientific Reports 2022 Journals.
 - **2022-25** - **Session Chair** for ACM-BCB 2024-2025, 2022.
 
 ### University Service
